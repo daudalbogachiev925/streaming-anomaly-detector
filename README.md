@@ -1,4 +1,4 @@
-# Streaming Anomaly Detector
+ # Streaming Anomaly Detector
 
 Online anomaly detection for event streams with concept drift adaptation.
 
